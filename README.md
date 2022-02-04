@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi I'm [Conrad Klek](https://github.com/conradklek)!
 
-<!--
-**conradklek/conradklek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/conradklek)](https://twitter.com/conradklek)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:conradklek@gmail.com)](mailto:conradklek@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://conradklek.github.io)](https:/conradklek.github.io)
 
-Here are some ideas to get you started:
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=conradklek&show_icons=true&hide_border=true">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧐 About
+
+- 👨‍💻 My Portfolio: http://conradklek.github.io
+
+- 📫 How to reach me: conradklek@gmail.com
+
+- 🌱 Languages and Tools: 
+  - Svelte
+  - Tailwind CSS
+  - MongoDB
+  - Node, Express, Sass, Pug
+  - HTML/CSS/JS
