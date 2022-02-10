@@ -14,6 +14,7 @@ Hi I'm [Conrad Klek](https://github.com/conradklek)!
 
 - 🌱 Languages and Tools: 
   - Svelte
+  - WebComponents
   - Tailwind CSS
   - Node, Express, Sass, Pug, MongoDB
   - HTML/CSS/JS
