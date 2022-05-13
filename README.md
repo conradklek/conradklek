@@ -4,7 +4,7 @@ Hi I'm [Conrad Klek](https://github.com/conradklek)!
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:conradklek@gmail.com)](mailto:conradklek@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://conradklek.github.io)](https:/conradklek.github.io)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=conradklek&show_icons=true&hide_border=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=conradklek&show_icons=true&hide_border=true">
 
 ## 🧐 About
 
