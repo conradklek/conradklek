@@ -8,8 +8,9 @@ Hi I'm [Conrad Klek](https://github.com/conradklek)!
 
 ## 🧐 About
 
-- 👨‍💻 My (Design) Portfolio: http://conradklek.github.io
-- 📃 My Linkedin: https://www.linkedin.com/in/conradklek/
+- 👨‍💻 Personal Website: https://conradklek.github.io
+- 📃 Linkedin: https://www.linkedin.com/in/conradklek/
+- 🖼 Design Portfolio: https://www.behance.net/conradklek
 
 - 📫 How to reach me: conradklek@gmail.com
 
