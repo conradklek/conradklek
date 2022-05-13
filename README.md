@@ -8,13 +8,18 @@ Hi I'm [Conrad Klek](https://github.com/conradklek)!
 
 ## 🧐 About
 
-- 👨‍💻 My Portfolio: http://conradklek.github.io
+- 👨‍💻 My (Design) Portfolio: http://conradklek.github.io
+- 📃 My Linkedin: https://www.linkedin.com/in/conradklek/
 
 - 📫 How to reach me: conradklek@gmail.com
 
 - 🌱 Languages and Tools: 
   - Svelte
+  - React
   - WebComponents
   - Tailwind CSS
-  - Node, Express, Sass, Pug, MongoDB
+  - Node, Express, 
+  - Sass, Pug, 
+  - SQL, SQLite
+  - NOSQL, MongoDB/Mongoose
   - HTML/CSS/JS
