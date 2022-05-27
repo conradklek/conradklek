@@ -1,20 +1,17 @@
-Hi I'm [Conrad Klek](https://github.com/conradklek)!
+# Hi I'm [Conrad Klek](https://github.com/conradklek)!
 
 <img align="center" display="block" src="https://github-readme-stats.vercel.app/api?username=conradklek&show_icons=true&hide_border=true">
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/conradklek)](https://twitter.com/conradklek)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:conradklek@gmail.com)](mailto:conradklek@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://conradklek.github.io)](https:/conradklek.github.io)
+## About Me
+> Software engineer based in Chicago, Illinois. I recently graduated from Bloom Tech with a certification in full-stack development. In my self-motivated projects I’ve focused on making coding more accessible and user-friendly, while expanding the capabilities of the web. While I’m formittable at many front & back end languages, I’m especially proficient in Svelte/Kit and would love to implement it wherever I can. Prior to software development, I studied and received a BFA in Graphic Design, giving me a strong understanding of UI/UX and front-end development. 
 
-## 🧐 About
+## 🖼 Projects:
+  1. [Hacker News Clone](https://conradklek.github.io/hack)
+    - Micro front-end for the hacker news API built with Web Components
+  2. [Personal Portfolio](https://conradklek.github.io)
+    - Graphic Design showcase built with html/css/js
 
-- 👨‍💻 Personal Website: https://conradklek.github.io
-- 📃 Linkedin: https://www.linkedin.com/in/conradklek/
-- 🖼 Design Portfolio: https://www.behance.net/conradklek
-
-- 📫 How to reach me: conradklek@gmail.com
-
-- 🌱 Languages and Tools: 
+## 🌱 Languages and Tools: 
   - Svelte
   - React
   - WebComponents
@@ -24,3 +21,11 @@ Hi I'm [Conrad Klek](https://github.com/conradklek)!
   - SQL, SQLite
   - NOSQL, MongoDB/Mongoose
   - HTML/CSS/JS
+  - Figma, Adobe Creative Suite
+
+## 🧐 Links:
+
+- 👨‍💻 Personal Website: https://conradklek.github.io
+- 📃 Linkedin: https://www.linkedin.com/in/conradklek/
+- 🖼 Design Portfolio: https://www.behance.net/conradklek
+- 📫 How to reach me: conradklek@gmail.com
