@@ -5,7 +5,7 @@
 
 ## Skills
 - **Frontend**: Svelte, React, Tailwind/WindiCSS, Web Components, HTML, CSS, JS, Figma, Adobe Suite
-- **Backend**: SvelteKit, Node, Express, SQL (SQLite), NoSQL (MongoDB), Git CLI, Deployment, Authentication
+- **Backend**: SvelteKit, Node, Express, SQL (SQLite), NoSQL (MongoDB), Git CLI, Authentication 
 - **Expertise**: Algorithms, Architecture, Data Structures, Testing (Cypress, Jest), Deployment, UI/UX
 
 <br />
