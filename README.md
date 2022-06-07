@@ -14,25 +14,25 @@
 
 <br />
 
-1. Updoc ([GitHub](https://github.com/conradklek/updoc)) | _SvelteKit_ | _Mongoose_ | _Express_ | _Node_ | _TailwindCSS_
+1. **Updoc** ([GitHub](https://github.com/conradklek/updoc)) | _SvelteKit_ | _Mongoose_ | _Express_ | _Node_ | _TailwindCSS_
    -  Full Stack CMS PWA with a RESTful Express API and NoSQL MongoDB backend
    -  CodeMirror 6 powered GUI with multi-language support and instant client-side HMR via the Broadcast Channel API
    -  User sign-up and authentication utilizing JSON Web Tokens and session protected routes
    -  Extends Stripe’s Markdoc parser with a reactive layer and postCSS transpiler, providing a complete toolchain for writing stateful applications in markdown
 
-2. Wheel App ([Heroku](https://advanced-state-wheel.herokuapp.com/quiz-new)) | ([GitHub](https://github.com/conradklek/web-sprint-challenge-advanced-state)) | _React_ | _Redux_ | _Express_ | _Node_
+2. **Wheel App** ([Heroku](https://advanced-state-wheel.herokuapp.com/quiz-new)) | ([GitHub](https://github.com/conradklek/web-sprint-challenge-advanced-state)) | _React_ | _Redux_ | _Express_ | _Node_
    -  React frontend that utilizes Redux actions and reducers for state management
    -  RESTful Express API routes and mock Node backend that persists state in navigation
    -  Jest Testing, deployed to Heroku and GitHub via the Git CLI
 
-3. ProjectsDB ([GitHub](https://github.com/conradklek/web-sprint-challenge-adding-data-persistence)) | _SQL_ | _Knex_ | _Express_ | _Node_
+3. **ProjectsDB** ([GitHub](https://github.com/conradklek/web-sprint-challenge-adding-data-persistence)) | _SQL_ | _Knex_ | _Express_ | _Node_
    -  Knex Database complete with seeds, migrations, and rollback functions
    -  SQLite Relational Database System design allowing multi-table many-to-many queries
    -  Express Router REST API with data persistence and and Jest backend testing
 
-4. Hacker News Clone ([Live Link](https://conradklek.github.io/hack)) | _Web Components_ | _Hacker News API_
+4. **Hacker News Clone** ([Live Link](https://conradklek.github.io/hack)) | _Web Components_ | _Hacker News API_
 
-5. IkonID ([Live Link](https://ikonid.us)) | _HTML_ | _CSS_ | _JS_
+5. **IkonID** ([Live Link](https://ikonid.us)) | _HTML_ | _CSS_ | _JS_
 
 <br />
 
