@@ -4,12 +4,9 @@
 <br />
 
 ## Skills
-- **Frontend**
-  - Svelte, React, Tailwind/WindiCSS, Web Components, HTML, CSS, JS, Figma, Adobe Creative Suite
-- **Backend**
-  - SvelteKit, Node, Express, SQL (SQLite), NoSQL (MongoDB), Git CLI, GitHub, Deployment, Authentication
-- **Expertise**
-  - Algorithms, Architecture, Data Structures, Testing (Cypress, Jest), Deployment, UI/UX Design
+- **Frontend**: Svelte, React, Tailwind/WindiCSS, Web Components, HTML, CSS, JS, Figma, Adobe Creative Suite
+- **Backend**: SvelteKit, Node, Express, SQL (SQLite), NoSQL (MongoDB), Git CLI, GitHub, Deployment, Authentication
+- **Expertise**: Algorithms, Architecture, Data Structures, Testing (Cypress, Jest), Deployment, UI/UX Design
 
 <br />
 
