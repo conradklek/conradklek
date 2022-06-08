@@ -1,5 +1,5 @@
 # 👋 Hello, I'm [Conrad Klek](https://conradklek.github.io)!
-> Software engineer based in Chicago, Illinois. I recently graduated from BloomTech with a certification in full-stack web development. In my self-motivated projects I’ve focused on making coding more accessible and user-friendly, while expanding the capabilities of the web. While I’m formittable at many front & back end languages, I’m especially proficient in Svelte/Kit and would love to implement it wherever I can. Prior to software development, I studied and received a BFA in Graphic Design, giving me a strong understanding of UI/UX and front-end development. 
+> Software engineer based in Chicago, Illinois. I recently graduated from BloomTech with a certification in full-stack web development. In my self-motivated projects I’ve focused on making coding more accessible and user-friendly, while expanding the capabilities of the web. While I’m formidable at many front & back end languages, I’m especially proficient in Svelte/Kit and would love to implement it wherever I can. Prior to software development, I studied and received a BFA in Graphic Design, giving me a strong understanding of UI/UX and front-end development. 
 
 <br />
 
